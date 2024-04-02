@@ -20,4 +20,5 @@ server.use(router) //rotas na prota 3000
 server.listen(8000, () => {
   console.log("Lucas Santiago")
   console.log("Alurabooks disponível em http://localhost:8000")
+  console.log("AllBooks disponível em http://localhost:8000")
 })
